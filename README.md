@@ -9,20 +9,18 @@ X # player X
 2 2
 
 Output:
-===
-=X=
-===
+= = =
+= X =
+= = =
 
 Input:
 O # player O
 1 3
 
 Output:
-==O
-===
-===
----
+= = O
+= = =
+= = =
              X        X
 First XXX OR X OR   X    win.
              X    X
----
