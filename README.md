@@ -9,19 +9,9 @@ Input:
 X # player X
 2 2
 
-Output:
-
-= = =
-= X =
-= = =
-
 Input:
 
 O # player O
 1 3
 
-Output:
 
-= = O
-= = =
-= = =
